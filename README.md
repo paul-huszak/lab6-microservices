@@ -16,4 +16,4 @@ by a PR so other fellow can try it.
 
 | User name                                                            | NIA | Report                                                                               | Score                             |
 |----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
-| [Berty980](https://github.com/Berty980/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/Berty980/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [Berty980](https://github.com/Berty980/lab6-microservices/tree/work) | 735976 | [REPORT.md](https://github.com/Berty980/lab6-microservices/blob/work/docs/REPORT.md) | |
