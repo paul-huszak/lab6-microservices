@@ -10,7 +10,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 * [Centralized configuration for all services](https://github.com/spring-attic/gs-routing-and-filtering).
 * [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
-
+[README.md](README.md)
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
@@ -27,3 +27,4 @@ by a PR so other fellow can try it.
 | [HugoLazaro](https://github.com/HugoLazaro/lab6-microservices/tree/work) | 801758 | [REPORT.md](https://github.com/HugoLazaro/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [797021](https://github.com/797021/lab6-microservices/tree/work) | 797021 | [REPORT.md](https://github.com/797021/lab6-microservices/blob/work/docs/REPORT.md) |
 | [Daniel-dgp](https://github.com/Daniel-dgp/lab6-microservices/tree/work) | 756128 | [REPORT.md](https://github.com/Daniel-dgp/lab6-microservices/blob/work/docs/REPORT.md) | |
+
