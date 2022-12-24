@@ -16,7 +16,7 @@ by a PR so other fellow can try it.
 
 | User name                                                            | NIA | Report                                                                               | Score                             |
 |----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
-| [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | Plan to implement **API gateway** |
+| [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | **API gateway** 🎁 |
 | [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work) | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [celiia01](https://github.com/celiia01/lab6-microservices/tree/work) | 796685 | [REPORT.md](https://github.com/celiia01/lab6-microservices/blob/work/docs/REPORT.md) |   |
 | [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work) | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md) | |
