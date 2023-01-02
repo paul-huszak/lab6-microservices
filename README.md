@@ -6,7 +6,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 
 * [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/)
   .
-* [API gateway for web and registration](https://github.com/spring-attic/gs-routing-and-filtering).
+* ~[API gateway for web and registration](https://github.com/spring-attic/gs-routing-and-filtering)~ implemented by [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work).
 * [Centralized configuration for all services](https://github.com/spring-attic/gs-routing-and-filtering).
 * [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
