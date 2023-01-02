@@ -31,3 +31,4 @@ by a PR so other fellow can try it.
 | [798523](https://github.com/798523/lab6-microservices/tree/work) | 798523 | [REPORT.md](https://github.com/798523/lab6-microservices/blob/work/docs/report/REPORT.md) |
 | [jbuil](https://github.com/jbuil/lab6-microservices/tree/work) | 797285 | [REPORT.md](https://github.com/jbuil/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [Davidzf21](https://github.com/Davidzf21/lab6-microservices/tree/work) | 780500 | [REPORT.md](https://github.com/Davidzf21/lab6-microservices/blob/work/REPORT.md) |
+| [p3n4x0](https://github.com/p3n4x0/lab6-microservices/tree/work) | 774572 | [REPORT.md](https://github.com/p3n4x0/lab6-microservices/blob/work/docs/REPORT.md) |
