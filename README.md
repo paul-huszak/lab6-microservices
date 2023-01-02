@@ -27,3 +27,4 @@ by a PR so other fellow can try it.
 | [HugoLazaro](https://github.com/HugoLazaro/lab6-microservices/tree/work)     | 801758 | [REPORT.md](https://github.com/HugoLazaro/lab6-microservices/blob/work/docs/REPORT.md)   | |
 | [797021](https://github.com/797021/lab6-microservices/tree/work)             | 797021 | [REPORT.md](https://github.com/797021/lab6-microservices/blob/work/docs/REPORT.md)       |
 | [Jaime1401](https://github.com/Jaime1401/lab6-microservices/tree/work)       | 801965 | [REPORT.md](https://github.com/Jaime1401/lab6-microservices/blob/work/docs/REPORT.md)    |
+| [rubenDTD](https://github.com/rubenDTD/lab6-microservices/tree/work) | 736650 | [REPORT.md](https://github.com/rubenDTD/lab6-microservices/blob/work/docs/REPORT.md) |
