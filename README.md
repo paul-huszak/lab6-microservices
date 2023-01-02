@@ -17,6 +17,9 @@ by a PR so other fellow can try it.
 | User name                                                            | NIA | Report                                                                               | Score                             |
 |----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
 | [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | **API gateway** 🎁 |
+| [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work)       | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md)    |
+| [celiia01](https://github.com/celiia01/lab6-microservices/tree/work)         | 796685 | [REPORT.md](https://github.com/celiia01/lab6-microservices/blob/work/docs/REPORT.md)     |   |
+| [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work)       | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md)    | |
 | [GonchiMonchi](https://github.com/GonchiMonchi/lab6-microservices/tree/work) | 759561 | [REPORT.md](https://github.com/GonchiMonchi/lab6-microservices/blob/work/docs/REPORT.md) |
 | [PilarEster](https://github.com/PilarEster/lab6-microservices/tree/work)     | 800033 | [REPORT.md](https://github.com/PilarEster/lab6-microservices/blob/work/docs/REPORT.md)   |   |
 | [hec7orci7o](https://github.com/Hec7or-Uni/lab6-microservices/tree/work)     | 798095 | [REPORT.md](https://github.com/Hec7or-Uni/lab6-microservices/blob/work/docs/REPORT.md)   |       |
@@ -32,3 +35,4 @@ by a PR so other fellow can try it.
 | [jbuil](https://github.com/jbuil/lab6-microservices/tree/work) | 797285 | [REPORT.md](https://github.com/jbuil/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [Davidzf21](https://github.com/Davidzf21/lab6-microservices/tree/work) | 780500 | [REPORT.md](https://github.com/Davidzf21/lab6-microservices/blob/work/REPORT.md) |
 | [p3n4x0](https://github.com/p3n4x0/lab6-microservices/tree/work) | 774572 | [REPORT.md](https://github.com/p3n4x0/lab6-microservices/blob/work/docs/REPORT.md) |
+| [HectorRute98](https://github.com/HectorRute98/lab6-microservices/tree/work) | 736259 | [REPORT.md](https://github.com/HectorRute98/lab6-microservices/blob/work/docs/REPORT.md) |
