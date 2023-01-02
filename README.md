@@ -28,3 +28,4 @@ by a PR so other fellow can try it.
 | [Daniel-dgp](https://github.com/Daniel-dgp/lab6-microservices/tree/work) | 756128 | [REPORT.md](https://github.com/Daniel-dgp/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [GueorguiKachan](https://github.com/GueorguiKachan/lab6-microservices/tree/work) | 794999 | [REPORT.md](https://github.com/GueorguiKachan/lab6-microservices/blob/work/docs/REPORT.md) | |
 | [Berty980](https://github.com/Berty980/lab6-microservices/tree/work) | 735976 | [REPORT.md](https://github.com/Berty980/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [798523](https://github.com/798523/lab6-microservices/tree/work) | 798523 | [REPORT.md](https://github.com/798523/lab6-microservices/blob/work/docs/report/REPORT.md) |
