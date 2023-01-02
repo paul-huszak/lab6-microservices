@@ -6,7 +6,7 @@ Some ideas for obtaining a :gift: if you are the first that:
 
 * [Circuit breaker for the requests from web to accounts that avoids a 500 error](https://spring.io/guides/gs/circuit-breaker/)
   .
-* [API gateway for web and registration](https://github.com/spring-attic/gs-routing-and-filtering).
+* ~[API gateway for web and registration](https://github.com/spring-attic/gs-routing-and-filtering)~ implemented by [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work).
 * [Centralized configuration for all services](https://github.com/spring-attic/gs-routing-and-filtering).
 * [Dockerize the three services](https://spring.io/guides/topicals/spring-boot-docker).
 * [Docker compose with scale by command line](https://thepracticaldeveloper.com/dockerize-spring-boot/).
@@ -14,9 +14,9 @@ Some ideas for obtaining a :gift: if you are the first that:
 Manifest your intention first by a PR updating this `README.md` with your goal. If you desist of your goal, release it
 by a PR so other fellow can try it.
 
-| User name                                                                    | NIA    | Report                                                                                   | Score                             |
-|------------------------------------------------------------------------------|--------|------------------------------------------------------------------------------------------|-----------------------------------|
-| [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work)         | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md)     | Plan to implement **API gateway** |
+| User name                                                            | NIA | Report                                                                               | Score                             |
+|----------------------------------------------------------------------|-----|--------------------------------------------------------------------------------------|-----------------------------------|
+| [ZenithGD](https://github.com/ZenithGD/lab6-microservices/tree/work) | 795306 | [REPORT.md](https://github.com/ZenithGD/lab6-microservices/blob/work/docs/report.md) | **API gateway** 🎁 |
 | [pikanachi](https://github.com/pikanachi/lab6-microservices/tree/work)       | 610720 | [REPORT.md](https://github.com/pikanachi/lab6-microservices/blob/work/docs/REPORT.md)    |
 | [celiia01](https://github.com/celiia01/lab6-microservices/tree/work)         | 796685 | [REPORT.md](https://github.com/celiia01/lab6-microservices/blob/work/docs/REPORT.md)     |   |
 | [Ernesting](https://github.com/Ernesting/lab6-microservices/tree/work)       | 798799 | [REPORT.md](https://github.com/Ernesting/lab6-microservices/blob/work/docs/REPORT.md)    | |
@@ -26,4 +26,13 @@ by a PR so other fellow can try it.
 | [Ibon2](https://github.com/Ibon2/lab6-microservices/tree/work)               | 776561 | [REPORT.md](https://github.com/Ibon2/lab6-microservices/blob/work/docs/REPORT.md)        | |
 | [HugoLazaro](https://github.com/HugoLazaro/lab6-microservices/tree/work)     | 801758 | [REPORT.md](https://github.com/HugoLazaro/lab6-microservices/blob/work/docs/REPORT.md)   | |
 | [797021](https://github.com/797021/lab6-microservices/tree/work)             | 797021 | [REPORT.md](https://github.com/797021/lab6-microservices/blob/work/docs/REPORT.md)       |
+| [Jaime1401](https://github.com/Jaime1401/lab6-microservices/tree/work)       | 801965 | [REPORT.md](https://github.com/Jaime1401/lab6-microservices/blob/work/docs/REPORT.md)    |
+| [rubenDTD](https://github.com/rubenDTD/lab6-microservices/tree/work) | 736650 | [REPORT.md](https://github.com/rubenDTD/lab6-microservices/blob/work/docs/REPORT.md) |
+| [Daniel-dgp](https://github.com/Daniel-dgp/lab6-microservices/tree/work) | 756128 | [REPORT.md](https://github.com/Daniel-dgp/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [GueorguiKachan](https://github.com/GueorguiKachan/lab6-microservices/tree/work) | 794999 | [REPORT.md](https://github.com/GueorguiKachan/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [Berty980](https://github.com/Berty980/lab6-microservices/tree/work) | 735976 | [REPORT.md](https://github.com/Berty980/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [798523](https://github.com/798523/lab6-microservices/tree/work) | 798523 | [REPORT.md](https://github.com/798523/lab6-microservices/blob/work/docs/report/REPORT.md) |
+| [jbuil](https://github.com/jbuil/lab6-microservices/tree/work) | 797285 | [REPORT.md](https://github.com/jbuil/lab6-microservices/blob/work/docs/REPORT.md) | |
+| [Davidzf21](https://github.com/Davidzf21/lab6-microservices/tree/work) | 780500 | [REPORT.md](https://github.com/Davidzf21/lab6-microservices/blob/work/REPORT.md) |
+| [p3n4x0](https://github.com/p3n4x0/lab6-microservices/tree/work) | 774572 | [REPORT.md](https://github.com/p3n4x0/lab6-microservices/blob/work/docs/REPORT.md) |
 | [HectorRute98](https://github.com/HectorRute98/lab6-microservices/tree/work) | 736259 | [REPORT.md](https://github.com/HectorRute98/lab6-microservices/blob/work/docs/REPORT.md) |
