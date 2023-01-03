@@ -37,3 +37,4 @@ by a PR so other fellow can try it.
 | [p3n4x0](https://github.com/p3n4x0/lab6-microservices/tree/work) | 774572 | [REPORT.md](https://github.com/p3n4x0/lab6-microservices/blob/work/docs/REPORT.md) |
 | [HectorRute98](https://github.com/HectorRute98/lab6-microservices/tree/work) | 736259 | [REPORT.md](https://github.com/HectorRute98/lab6-microservices/blob/work/docs/REPORT.md) |
 | [motinsa](https://github.com/motinsa/lab6-microservices/tree/work) | 797610 | [REPORT.md](https://github.com/motinsa/lab6-microservices/blob/work/docs/REPORT.md) |
+| [newfeels](https://github.com/newfeels/lab6-microservices/tree/work) | 779898 | [REPORT.md](https://github.com/newfeels/lab6-microservices/blob/work/docs/REPORT.md) |
